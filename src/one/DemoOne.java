@@ -2,6 +2,7 @@ package one;
 
 public class DemoOne {
 	
+	// create get min method
 	public static void getMin(int b, int a) {
 		
 		System.out.println(b - a);
